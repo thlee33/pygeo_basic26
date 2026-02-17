@@ -1,0 +1,22 @@
+[project]
+name = "geopython-basic26"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "contextily>=1.7.0",
+    "folium>=0.20.0",
+    "geodatasets>=2026.1.0",
+    "geopandas>=1.1.2",
+    "mapclassify>=2.10.0",
+    "matplotlib>=3.10.8",
+    "openpyxl>=3.1.5",
+    "pyogrio>=0.12.1",
+    "pyproj>=3.7.2",
+    "rasterio>=1.5.0",
+    "requests>=2.32.5",
+    "scipy>=1.17.0",
+    "seaborn>=0.13.2",
+    "shapely>=2.1.2",
+]
